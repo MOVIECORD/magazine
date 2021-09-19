@@ -69,11 +69,3 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
-
-[theqoo]
-title = "더쿠 ─ 스퀘어"
-url = "https://theqoo.net/index.php?mid=movie&category=831246396"
-entrySelector = "table.bd_lst.bd_tb_lst.bd_tb.theqoo_board_table tr"
-titleSelector = "td.title"
-linkSelector = "a"
-contentSelector = "td[class='title'] span"
